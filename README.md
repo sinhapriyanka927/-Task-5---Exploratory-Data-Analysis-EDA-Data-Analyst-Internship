@@ -1,24 +1,20 @@
 # Task 5 - Exploratory Data Analysis (EDA) | Data Analyst Internship
 
-## 📌 Objective
-To perform Exploratory Data Analysis (EDA) and build predictive models to identify whether a loan will be paid back or not, based on customer and loan-related data.
+## 📄 Submitted File
+- `task 5 DA Internship.pdf`: Contains the full analysis, including EDA, visualizations, preprocessing, model building, and evaluation.
 
-## 📂 Contents
-- EDA and preprocessing (missing values, feature encoding)
-- Univariate and bivariate analysis using visualizations
-- Handling imbalanced data (noted but not corrected)
-- Predictive modeling using Logistic Regression, Random Forest, and XGBoost
-- Model evaluation with accuracy, precision, recall, and f1-score
+## 🎯 Objective
+To analyze loan data and build predictive models to determine loan repayment status.
 
-## 🧠 Key Takeaways
-- XGBoost performed best with higher recall and f1-score.
-- Class imbalance in the data affects performance; future work may include SMOTE or cost-sensitive learning.
-- Feature importance can help financial institutions focus on key risk factors.
+## 🔍 Summary
+The report includes:
+- Data cleaning and preprocessing
+- Visual EDA and correlation analysis
+- Machine learning models: Logistic Regression, Random Forest, XGBoost
+- Performance metrics (accuracy, recall, f1-score)
 
-## 📎 Files Included
-- `task5_eda_notebook.ipynb`: Jupyter Notebook with code and analysis
-- `task5_report.pdf`: PDF summary of the analysis and results
+This project was completed as part of the Data Analyst Internship Task 5.
 
-## 🔗 Submission Info
-This task is part of the Data Analyst Internship program and was submitted via GitHub as per the given instructions.
+---
+
 
